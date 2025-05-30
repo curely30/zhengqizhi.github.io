@@ -36,7 +36,7 @@ I am still in the initial learning stage of my scientific research and have stro
 
 [Machine learning algorithms to predict stroke in China based on causal inference of time series analysis](https://arxiv.org/abs/2503.14512)
 
-**Qizhi Zheng**, Ayang Zhao, Xinzhu Wang, Yanhong Bai, Zikun Wang, Xiuying Wang, Xianzhang Zeng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
+**Qizhi Zheng**, [Ayang Zhao](https://homepage.hit.edu.cn/zhaoayang), Xinzhu Wang, Yanhong Bai, Zikun Wang, Xiuying Wang, Xianzhang Zeng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
 - BMC Neurology. (SCI Q3; IF: 2.2)
 - [arXiv preprint arXiv:2503.14512](https://arxiv.org/abs/2503.14512). 
