@@ -19,7 +19,9 @@ redirect_from:
 
 My Chinese name is 郑奇志.
 
-I am currently a PhD candidate majoring in grassland science at Chinese Agriculture University. My research interests include Grassland Science, Machine Learning, and Biomedical Engineering.
+I am currently a PhD candidate majoring in [grassland science](https://cgst.cau.edu.cn/) at [Chinese Agriculture University](https://www.cau.edu.cn/), supervised by [Prof. Jie Wang](https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html). Before that, I got my Master Degree at [Northeast Forestry University](https://www.nefu.edu.cn/), supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm).
+
+My research interests include Grassland Science, Machine Learning, and Biomedical Engineering.
 
 I am still in the initial learning stage of my scientific research and have strong self-motivation. If you are interested in my work, please feel free to drop me an [email](curry30258036@gmail.com).
 
@@ -59,8 +61,8 @@ I am still in the initial learning stage of my scientific research and have stro
 - in the future...
 
 # 📖 Educations
-- *2025.06 - now*, Grassland Science, PhD candidate, Chinese Agriculture University. Supervised by [Prof. Jie Wang](https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html)
-- *2022.09 - 2025.06*, The new generation of electronic information technology, Master of Engineering, Northeast Forestry University. Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)
+- *2025.06 - now*, Grassland Science, PhD candidate, [Chinese Agriculture University](https://www.cau.edu.cn/). Supervised by [Prof. Jie Wang](https://cgst.cau.edu.cn/art/2021/1/20/art_49926_975651.html)
+- *2022.09 - 2025.06*, The new generation of electronic information technology, Master, [Northeast Forestry University](https://www.nefu.edu.cn/). Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
 # 💻 Internships
 - *2019 - 2022*, State Grid Corporation of China, China.
