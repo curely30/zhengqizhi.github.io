@@ -65,4 +65,4 @@ I am still in the initial learning stage of my scientific research and have stro
 - *2022.09 - 2025.06*, The new generation of electronic information technology, Master, [Northeast Forestry University](https://www.nefu.edu.cn/). Supervised by [Prof. Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
 # 💻 Internships
-- *2019 - 2022*, State Grid Corporation of China, China.
+- *2019 - 2022*, State Grid Corporation of China.
