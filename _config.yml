@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qizhi Zheng"
-description              : "PhD candidate of Chinese Agriculture University"
+description              : "PhD candidate at Chinese Agriculture University"
 repository               : "zhengqizhi30/zhengqizhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qizhi Zheng"
   avatar           : "images/id.jpg"
-  bio              : ""
+  bio              : "PhD candidate at Chinese Agriculture University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
