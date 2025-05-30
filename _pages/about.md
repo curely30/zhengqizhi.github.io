@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My Chinese name is 郑奇志. I am currently a PhD candidate majoring in grassland science at Chinese Agriculture University. My research interests include Grassland Science, Machine Learning, and Biomedical Engineering. I am still in the initial learning stage of my scientific research and have strong self-motivation.
+My Chinese name is 郑奇志.
 
-If you are interested in my work, please feel free to drop me an [email](curry30258036@gmail.com).
+I am currently a PhD candidate majoring in grassland science at Chinese Agriculture University. My research interests include Grassland Science, Machine Learning, and Biomedical Engineering.
+
+I am still in the initial learning stage of my scientific research and have strong self-motivation. If you are interested in my work, please feel free to drop me an [email](curry30258036@gmail.com).
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 1 papers have been accepted by BMC Neurology 2025.
+- *2025.05*: &nbsp;🎉🎉 1 papers have been accepted by BMC Neurology.
 - *2025.03*: &nbsp;🎉🎉 2 papers have been uploaded to arXiv as preprints for public release. 
 
 # 🎉 Publications 
@@ -32,9 +34,9 @@ If you are interested in my work, please feel free to drop me an [email](curry30
 
 [Machine learning algorithms to predict stroke in China based on causal inference of time series analysis](https://arxiv.org/abs/2503.14512)
 
-**Qizhi Zheng**, Ayang Zhao, Xinzhu Wang, Yanhong Bai, Zikun Wang, Xiuying Wang, Xianzhang Zeng, Guanghui Dong
+**Qizhi Zheng**, Ayang Zhao, Xinzhu Wang, Yanhong Bai, Zikun Wang, Xiuying Wang, Xianzhang Zeng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
-- BMC Neurology 2025. (SCI Journal Q3; IF: 2.2)
+- BMC Neurology. (SCI Q3; IF: 2.2)
 - [arXiv preprint arXiv:2503.14512](https://arxiv.org/abs/2503.14512). 
 </div>
 </div>
@@ -46,9 +48,9 @@ If you are interested in my work, please feel free to drop me an [email](curry30
 
 [HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](https://arxiv.org/abs/2503.07371)
 
-**Qizhi Zheng**, [Zhongze Luo](http://luozhongze.github.io), Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong]()
+**Qizhi Zheng**, [Zhongze Luo](http://luozhongze.github.io), Meiyan Guo, Xinzhu Wang, Renqimuge Wu, Qiu Meng, [Guanghui Dong*](https://ccec.nefu.edu.cn/info/1043/1938.htm)
 
-- Major Revised on Journal of Real-Time Image Processing 2025. (SCI Journal Q2; IF: 2.9)
+- Major Revised on Journal of Real-Time Image Processing. (SCI Q2; IF: 2.9)
 - [arXiv preprint arXiv:2503.07371](https://arxiv.org/abs/2503.07371). 
 </div>
 </div>
